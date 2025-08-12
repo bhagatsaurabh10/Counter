@@ -13,7 +13,7 @@ body {
     padding: 20px;
     border: 1px solid #ccc;
     border-radius: 10px;
-    background-color: #fff;
+    background-color: #c9b055;
 }
 
 .counter {
@@ -26,9 +26,18 @@ button {
     font-size: 1em;
     margin: 5px;
     cursor: pointer;
+    background-color: #638f64;
 }
 
 .clicks {
     font-size: 1.1em;
     margin-top: 10px;
+}
+
+.counterContainer{
+    padding: 10px 20px;
+    font-size: 1em;
+    margin: 5px;
+    cursor: pointer;
+    background-color: #2b697e;
 }
